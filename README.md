@@ -1,1 +1,1 @@
-[Open the Encyclopedia](./index.html)
+[Open the Encyclopedia](https://gaelbertili.github.io/Encyclopedia/)
